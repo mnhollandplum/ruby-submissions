@@ -4,7 +4,7 @@ Frontend Production: https://kelleyjenkins.github.io/quantified-self/
 
 Frontend Github:https://github.com/kelleyjenkins/quantified-self
 
-Backend Production:https://github.com/kelleyjenkins/quantified-self
+Backend Production http://salty-escarpment-41029.herokuapp.com/api/meals
 
 Backend Github:  https://github.com/zacharylandes/quantified-api
 
