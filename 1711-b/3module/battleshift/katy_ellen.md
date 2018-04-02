@@ -9,19 +9,21 @@ Each team should use the rubric below to self assess your project. Bring this to
 
 ### Completion
 
-- [ ] All user stories complete (required)
+- [x] All user stories complete (required)
 - [ ] All spec harness tests are passing (required)
 - [ ] All requirements set by your instructor have been met. (required)
 
 ### Testing
 
-- [ ] I would be satisfied paying for this test suite. (required)
-- [ ] Common edge case are tested. (5 required)
+- [x] I would be satisfied paying for this test suite. (required)
+- [x] Common edge case are tested. (5 required)
 - [ ] Unit testing is above 90%. (required)
+
+Check to see what's happening with unit testing.
 
 **Passing project utilize three or more of these techniques in multiple tests:**
 
-- [ ] Fixtures
+- [x] Fixtures
 - [ ] Mocks
 - [ ] Stubs
 - [ ] Doubles
@@ -35,12 +37,12 @@ Each team should use the rubric below to self assess your project. Bring this to
 
 - [ ] Project uses encapsulation
 - [ ] Project uses abstraction
-- [ ] Project uses inheritance
+- [x] Project uses inheritance
 
 ### Developer Empathy and Technical Debt
 
-- [ ] Dev(s) can point out areas where they may have created or added to technical debt (required)
-- [ ] Dev(s) can explain how the previous developers could have written their code to be more maintainable (required)
+- [x] Dev(s) can point out areas where they may have created or added to technical debt (required)
+- [x] Dev(s) can explain how the previous developers could have written their code to be more maintainable (required)
 
 ### Explorers and Risk Takers
 
