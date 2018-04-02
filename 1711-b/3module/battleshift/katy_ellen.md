@@ -5,7 +5,7 @@ Each team should use the rubric below to self assess your project. Bring this to
 ### Passing?
 
 - [ ] Yes
-- [ ] No
+- [x] No
 
 ### Completion
 
@@ -31,12 +31,12 @@ Check to see what's happening with unit testing.
 
 ### Code Quality
 
-- [ ] Project uses polymorphism (required)
+- [x] Project uses polymorphism (required)
 
 **Passing project uses one (required) or more of the following**
 
-- [ ] Project uses encapsulation
-- [ ] Project uses abstraction
+- [x] Project uses encapsulation
+- [x] Project uses abstraction
 - [x] Project uses inheritance
 
 ### Developer Empathy and Technical Debt
