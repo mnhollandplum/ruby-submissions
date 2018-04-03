@@ -1,0 +1,73 @@
+Project Template
+[Barker]
+Pitch
+1-3 sentences that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+
+Barker allows dog owners to explore other dog arounds them.
+Browse through our extensive collection of canines tailored to your location. 
+Find the perfect match, chat directly and expand the social circle of your four legged friend.
+
+Problem
+1-3 sentences describing the problem that you are trying to solve.
+
+Many dogs are picky when it comes to play time.
+Certain dog breeds gell well together others not so much. 
+Your dog may like to play fetch but mine only cares for tug of war.
+As a dog owner you know what your dog wants, but finding it can be a challenge.
+Barker, puts you in control, manages the complexity and finds you the ideal play date. 
+
+
+Solution
+1-3 sentences describing how your application will solve that problem.
+
+A simple swipe interface. 
+Users are able to browse a selection of dogs within a desired radius / male or female etc.
+If they match with another dog they can chat directly and organize a play date. 
+
+
+MVP
+What is your MVP? Be very specific about what pieces of functionality will be in place.
+
+Must have MVP:
+
+User is able to login with facebook 
+- They are able to change their location settings i.e. set radius of search 
+- They are able to filter for male or female dogs 
+- Once these settings have been accounted for they are show dogs that satisfy the conditions 
+- They can swipe right if they like the dog, left if they do not
+- If there is a match they are able to chat directly to the dog owner and arange a play date 
+
+Hope to reach (beyond my initial MVP):
+
+User is able to login with Instagram 
+- Congrats annimation when the user has been matched with another dog
+- Put some actual dogs on it that are not just seed data
+
+Target Audience
+1-3 sentences describing what type of user your app would be applicable to.
+
+Concerned millenial owners who want their dog to build long lasting relationships with other canines in the community. 
+Dog owners who are wary of their dogs particualr tastes in other breeds when it comes to making friends. 
+While the app is focused on forming a connection between dogs, their owners may also benefit from a spillover effect by connecting with other owners on the play date.
+
+New Technologies
+Which new technologies will you implement?
+
+- React Native 
+- Expo 
+- Gifted Chat 
+- React Native Navigation
+- Firebase 
+- Geofire 
+- Facebook Graph API 
+
+User Stories
+You must have at least 5 of the first user stories for you app up on your board in order for this to be approved. We recommend referencing the user stories provided in Quantified Self for great examples.
+
+Link to board: https://www.pivotaltracker.com/n/projects/2160445
+Wireframes
+Please provide screen shots of your wireframes for each part of your application.
+
+Use the arrow keys to navigate to the different screens
+
+https://preview.uxpin.com/0dc47474f682d26d69ffdd90b905391f456e8191#/pages/82571460/simulate/no-panels
