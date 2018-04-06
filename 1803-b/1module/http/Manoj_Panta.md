@@ -15,8 +15,9 @@ The project will be assessed with the following guidelines:
 * 1: Well-below expectations
 
 ### 1. Ruby Syntax & Style
-
-Expectations: * 3: Meets expectations
+  * 3: Meets expectations
+ 
+Expectations:
 
 - [x] Applies appropriate attribute encapsulation  
 - [x] Developer creates instance and local variables appropriately
@@ -29,16 +30,18 @@ Expectations: * 3: Meets expectations
 
 
 ### 2. Breaking Logic into Components
-
-Expectations: * 3: Meets expectations
+  * 3: Meets expectations
+  
+Expectations:
 
 - [x] Code is effectively broken into methods & classes
 - [ ] Developer writes methods less than 7 lines
 - [x] No more than 3 methods break the principle of SRP
 
 ### 3. Test-Driven Development
-
-Expectations: * 3: Meets expectations
+   * 3: Meets expectations
+   
+Expectations:
 
 - [ ] Each method is tested  
 - [ ] Functionality is accurately covered
@@ -49,13 +52,14 @@ Expectations: * 3: Meets expectations
 - [x] A test RakeTask is implemented
 
 ### 4. Functionality
-
-Expectations: * 3: Meets expectations
+   * 3: Meets expectations
+Expectations:
 
 - [x] Developer completes through iteration 4
 
-### 5. Version Control * 2: Below expectations
-
+### 5. Version Control 
+  * 2: Below expectations
+  
 - [ ] Developer commits at a pace of at least 1 commit per hour
 - [ ] Developer implements branching and PRs
 - [x] The final submitted version is merged into master
