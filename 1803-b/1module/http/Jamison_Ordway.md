@@ -3,8 +3,8 @@ Assessor: Dione Wilson
 Repo: https://github.com/jamisonordway/http_yykm
 
 Notes:
- Completed through iteration 3
- Git workflow was messed up
+ * Completed through iteration 3
+ * Git workflow was messed up
 
 ## Evaluation Rubric
 
