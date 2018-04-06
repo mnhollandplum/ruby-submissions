@@ -1,6 +1,6 @@
-Assessor:
+Assessor: Dione Wilson
 
-Repo:
+Repo: 
 
 Notes:
 
@@ -15,46 +15,46 @@ The project will be assessed with the following guidelines:
 
 ### 1. Ruby Syntax & Style
 
-Expectations:
+Expectations: * 3: Meets expectations
 
-- [ ] Applies appropriate attribute encapsulation  
-- [ ] Developer creates instance and local variables appropriately
-- [ ] Naming follows convention (is idiomatic)
-- [ ] Ruby methods used are logical and readable  
-- [ ] Developer implements best-choice enumerable methods
-- [ ] Code is indented properly
-- [ ] Code does not exceed 80 characters per line
-- [ ] A directory/file structure provides basic organization via lib/ and/or /test
+- [x] Applies appropriate attribute encapsulation  
+- [x] Developer creates instance and local variables appropriately
+- [x] Naming follows convention (is idiomatic)
+- [x] Ruby methods used are logical and readable  
+- [x] Developer implements best-choice enumerable methods
+- [x] Code is indented properly
+- [x] Code does not exceed 80 characters per line
+- [x] A directory/file structure provides basic organization via lib/ and/or /test
 
 
 ### 2. Breaking Logic into Components
 
-Expectations:
+Expectations: * 3: Meets expectations
 
-- [ ] Code is effectively broken into methods & classes
+- [x] Code is effectively broken into methods & classes
 - [ ] Developer writes methods less than 7 lines
-- [ ] No more than 3 methods break the principle of SRP
+- [x] No more than 3 methods break the principle of SRP
 
 ### 3. Test-Driven Development
 
-Expectations:
+Expectations: * 3: Meets expectations
 
 - [ ] Each method is tested  
 - [ ] Functionality is accurately covered
-- [ ] Tests implement Ruby syntax & style   
-- [ ] Balances unit and integration tests
+- [x] Tests implement Ruby syntax & style   
+- [x] Balances unit and integration tests
 - [ ] Evidence of edge cases testing
-- [ ] Test Coverage metrics are present (SimpleCov)
-- [ ] A test RakeTask is implemented
+- [x] Test Coverage metrics are present (SimpleCov)
+- [x] A test RakeTask is implemented
 
 ### 4. Functionality
 
-Expectations:
+Expectations: * 3: Meets expectations
 
-- [ ] Developer completes through iteration 4
+- [x] Developer completes through iteration 4
 
-### 5. Version Control
+### 5. Version Control * 2: Below expectations
 
 - [ ] Developer commits at a pace of at least 1 commit per hour
 - [ ] Developer implements branching and PRs
-- [ ] The final submitted version is merged into master
+- [x] The final submitted version is merged into master
