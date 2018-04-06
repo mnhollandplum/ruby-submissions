@@ -3,7 +3,7 @@ Assessor: Dione Wilson
 Repo: https://github.com/manojpanta/HTTP_Yeh_You_know_me
 
 Notes:
-Git flow: commit more frequently and use branches for each iteration or feature
+ * Git flow: commit more frequently and use branches for each iteration or feature
 
 ## Evaluation Rubric
 
