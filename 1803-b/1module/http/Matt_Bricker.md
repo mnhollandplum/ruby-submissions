@@ -3,6 +3,8 @@ Assessor: Dione Wilson
 Repo: https://github.com/brickstar/http
 
 Notes:
+ * Git flow: would like to see more frequent commits and branch for each iteration
+ * Some long methods that could use refactoring
 
 ## Evaluation Rubric
 
@@ -61,5 +63,5 @@ Expectations:
   * 2: Below expectations
 
 - [ ] Developer commits at a pace of at least 1 commit per hour
-- [ ] Developer implements branching and PRs
-- [ ] The final submitted version is merged into master
+- [x] Developer implements branching and PRs
+- [x] The final submitted version is merged into master
