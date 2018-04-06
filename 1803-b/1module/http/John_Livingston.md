@@ -1,9 +1,11 @@
-Assessor:
+Assessor: Dione Wilson
 
-Repo:
+Repo: https://github.com/Jliv316/HTTP.git
 
-Notes:
-
+Notes: 
+  * Git flow: would like to see more frequent commits
+  * More testing
+  
 ## Evaluation Rubric
 
 The project will be assessed with the following guidelines:
@@ -14,46 +16,51 @@ The project will be assessed with the following guidelines:
 * 1: Well-below expectations
 
 ### 1. Ruby Syntax & Style
-
+  * 3: Meets expectations
+  
 Expectations:
 
-- [ ] Applies appropriate attribute encapsulation  
-- [ ] Developer creates instance and local variables appropriately
-- [ ] Naming follows convention (is idiomatic)
-- [ ] Ruby methods used are logical and readable  
-- [ ] Developer implements best-choice enumerable methods
-- [ ] Code is indented properly
-- [ ] Code does not exceed 80 characters per line
-- [ ] A directory/file structure provides basic organization via lib/ and/or /test
+- [x] Applies appropriate attribute encapsulation  
+- [x] Developer creates instance and local variables appropriately
+- [x] Naming follows convention (is idiomatic)
+- [x] Ruby methods used are logical and readable  
+- [x] Developer implements best-choice enumerable methods
+- [x] Code is indented properly
+- [x] Code does not exceed 80 characters per line
+- [x] A directory/file structure provides basic organization via lib/ and/or /test
 
 
 ### 2. Breaking Logic into Components
+ * 3: Meets expectations
 
 Expectations:
 
-- [ ] Code is effectively broken into methods & classes
+- [x] Code is effectively broken into methods & classes
 - [ ] Developer writes methods less than 7 lines
-- [ ] No more than 3 methods break the principle of SRP
+- [x] No more than 3 methods break the principle of SRP
 
 ### 3. Test-Driven Development
-
+  * 2: Below expectations
+  
 Expectations:
 
 - [ ] Each method is tested  
 - [ ] Functionality is accurately covered
-- [ ] Tests implement Ruby syntax & style   
+- [x] Tests implement Ruby syntax & style   
 - [ ] Balances unit and integration tests
 - [ ] Evidence of edge cases testing
 - [ ] Test Coverage metrics are present (SimpleCov)
 - [ ] A test RakeTask is implemented
 
 ### 4. Functionality
-
+  * 2: Below expectations
+  
 Expectations:
 
 - [ ] Developer completes through iteration 4
 
 ### 5. Version Control
+  * 2: Below expectations
 
 - [ ] Developer commits at a pace of at least 1 commit per hour
 - [ ] Developer implements branching and PRs
