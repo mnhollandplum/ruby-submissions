@@ -1,3 +1,8 @@
+Note:
+
+ * Had a strong start on project and seemed to have a good grasp of reading in files and creating objects.
+ * Good grasp of accessing and passing around objects and attributes.
+
 ## Evaluation Rubric
 
 The project will be assessed with the following guidelines:
