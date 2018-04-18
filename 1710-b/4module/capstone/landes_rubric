@@ -13,6 +13,7 @@ Please self assess with the rubric below. Provide additional information to expl
 
 Developer uses an iteration map to plan project scope, breaks down broad features into granular tasks, and exercises good Git workflow (e.g., feature branches, descriptive commits, incremental PRs)
 
+Lauren and I followed our pivatol tracker board and had a pretty successful git flow considering the complexity of the project
 
 - Meets Expectations
 
@@ -20,18 +21,23 @@ Developer uses an iteration map to plan project scope, breaks down broad feature
 
 Developer plans stories ahead of sprint and makes some scope adjustments along the way. Developer communicates adjustments to Technical Lead as soon as possible (if necessary).
 
+We worked hard and had a lot of functionality, also kept in touch with each other with client
+
 - Meets Expectations
 
 ### 3. Implementation Quality
 
 Project exhibits tested (where applicable), maintainable, and well-organized code. Developer can speak to architecture and implementation decisions and best practices.
 
+I put a lot of energy into breaking things out into services and partials to keep the code organized. Also I tested critical features.
 - Above Expectations
 
 
 ### 4. Application of Techniques
 
 Developer implements four new techniques or patterns.
+
+Email, Modals, AWS, and dealing with a client ha
 
 - Meets Expectations
 
@@ -40,6 +46,7 @@ Developer implements four new techniques or patterns.
 
 Developer provides easy to navigate documentation showing how to setup and contribute to the application.
 
+Documentation is clear and concise, in my opnion.
 
 - Meets Expectations
 
@@ -48,7 +55,7 @@ Developer provides easy to navigate documentation showing how to setup and contr
 
 Developer implements code to increase accessibility.
 
-
+I did not put enough focus on this aspect
 - Below Expectations
 
 -----------
