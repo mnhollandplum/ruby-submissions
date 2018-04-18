@@ -1,3 +1,9 @@
+Notes: 
+
+* https://github.com/MLuce/event_reporter
+* Was not very far in the project.
+* Said she had spent a lot of time planning and understanding CSV class.
+
 ## Evaluation Rubric
 
 The project will be assessed with the following guidelines:
