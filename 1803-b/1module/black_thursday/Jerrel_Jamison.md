@@ -1,6 +1,6 @@
-Assessor:
+Assessor: Brian
 
-Repo:
+Repo: https://github.com/JerrelMitchell/black_thursday
 
 Notes:
 
@@ -48,10 +48,10 @@ The project will be assessed with the following guidelines:
 
 - [ ] Application implements iterations 0, 1, 2, 3, and either 4 or 5
 
-### 5. Version Control
+### 5. Version Control: 3
 
-- [ ] Developers commit at a pace of at least 1 commit per hour
-- [ ] Developers implements branching and PRs
-- [ ] Developer resolves Hound CI complaints on PRs
-- [ ] Commit history shows developers contributed evenly
-- [ ] The final submitted version is merged into master
+- [x] Developers commit at a pace of at least 1 commit per hour
+- [x] Developers implements branching and PRs
+- [x] Developer resolves Hound CI complaints on PRs
+- [x] Commit history shows developers contributed evenly
+- [x] The final submitted version is merged into master
