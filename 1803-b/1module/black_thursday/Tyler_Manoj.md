@@ -1,8 +1,12 @@
-Assessor:
+Assessor: Brian 
 
-Repo:
+Repo: https://github.com/manojpanta/black_thursday
 
 Notes:
+
+* Some tests for searching are expecting to not find the thing
+
+
 
 
 ## Evaluation Rubric
@@ -44,14 +48,14 @@ The project will be assessed with the following guidelines:
 - [ ] Test Coverage metrics are present (SimpleCov)
 - [ ] A test RakeTask is implemented
 
-### 4. Functionality
+### 4. Functionality: 3
 
-- [ ] Application implements iterations 0, 1, 2, 3, and either 4 or 5
+- [x] Application implements iterations 0, 1, 2, 3, and either 4 or 5
 
-### 5. Version Control
+### 5. Version Control: 2
 
 - [ ] Developers commit at a pace of at least 1 commit per hour
-- [ ] Developers implements branching and PRs
-- [ ] Developer resolves Hound CI complaints on PRs
+- [x] Developers implements branching and PRs
+- [x] Developer resolves Hound CI complaints on PRs
 - [ ] Commit history shows developers contributed evenly
-- [ ] The final submitted version is merged into master
+- [x] The final submitted version is merged into master
