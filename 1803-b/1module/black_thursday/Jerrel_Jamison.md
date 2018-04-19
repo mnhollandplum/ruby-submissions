@@ -38,19 +38,19 @@ The project will be assessed with the following guidelines:
 - [x] Developer writes methods less than 7 lines
 - [x] No more than 3 methods break the principle of SRP
 
-### 3. Test-Driven Development: 2
+### 3. Test-Driven Development: 3
 
-- [ ] Each method is tested  
+- [x] Each method is tested  
 - [x] Functionality is accurately covered
 - [x] Tests implement Ruby syntax & style   
-- [ ] Balances unit and integration tests
+- [x] Balances unit and integration tests
 - [x] Evidence of edge cases testing
 - [x] Test Coverage metrics are present (SimpleCov)
 - [x] A test RakeTask is implemented
 
-### 4. Functionality: 2
+### 4. Functionality: 3
 
-- [ ] Application implements iterations 0, 1, 2, 3, and either 4 or 5
+- [x] Application implements iterations 0, 1, 2, 3, and either 4 or 5
 
 ### 5. Version Control: 3
 
