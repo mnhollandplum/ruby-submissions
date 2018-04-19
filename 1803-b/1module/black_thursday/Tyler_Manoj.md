@@ -21,10 +21,10 @@ The project will be assessed with the following guidelines:
 
 **Expectations:**
 
-### 1. Ruby Syntax & Style: 2
+### 1. Ruby Syntax & Style: 3
 
-- [ ] Applies appropriate attribute encapsulation  
-- [ ] Developer creates instance and local variables appropriately
+- [x] Applies appropriate attribute encapsulation  
+- [x] Developer creates instance and local variables appropriately
 - [ ] Naming follows convention (is idiomatic)
 - [x] Ruby methods used are logical and readable  
 - [x] Developer implements best-choice enumerable methods
@@ -33,16 +33,16 @@ The project will be assessed with the following guidelines:
 - [x] A directory/file structure provides basic organization via lib/ and/or /test  
 - [x] Rubocop shows five or fewer complaints
 
-### 2. Breaking Logic into Components: 2
+### 2. Breaking Logic into Components: 3
 
-- [ ] Code is effectively broken into methods & classes
+- [x] Code is effectively broken into methods & classes
 - [x] Developer writes methods less than 7 lines
 - [x] No more than 3 methods break the principle of SRP
 
-### 3. Test-Driven Development: 2
+### 3. Test-Driven Development: 3
 
-- [ ] Each method is tested  
-- [ ] Functionality is accurately covered
+- [x] Each method is tested  
+- [x] Functionality is accurately covered
 - [x] Tests implement Ruby syntax & style   
 - [x] Balances unit and integration tests
 - [x] Evidence of edge cases testing
