@@ -1,3 +1,7 @@
+Note:
+
+ * Hadn't started the project due to work.
+
 ## Evaluation Rubric
 
 The project will be assessed with the following guidelines:
