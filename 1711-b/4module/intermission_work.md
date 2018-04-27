@@ -18,11 +18,11 @@
 - Wes Bos Video Code-Along Gist:
 
 ## Anna Royer
-- Link to Reflection Gist: [https://gist.github.com/annaroyer/235bb82935016b4848395afef481d291](pre-mod4 reflection)
-- Sorting Suite Repo:[https://github.com/annaroyer/sorting-suite](sorting suite)
-- Editor Challenge Repo: [https://github.com/annaroyer/javascript-style-editor-challenge](editor challenge)
-- Add Comments Challenge Repo:[https://github.com/annaroyer/javascript-add-comments-challenge](add comments challenge)
-- Wes Bos Video Code-Along Gist: [https://gist.github.com/annaroyer/f3ae75a5e1a5f99c1914f43fc42f9011](JS fundamentals gist)
+- Link to Reflection Gist: [pre-mod4 reflection](https://gist.github.com/annaroyer/235bb82935016b4848395afef481d291)
+- Sorting Suite Repo:[sorting suite](https://github.com/annaroyer/sorting-suite)
+- Editor Challenge Repo: [editor challenge](https://github.com/annaroyer/javascript-style-editor-challenge)
+- Add Comments Challenge Repo:[add comments challenge](https://github.com/annaroyer/javascript-add-comments-challenge)
+- Wes Bos Video Code-Along Gist: [JS fundamentals gist](https://gist.github.com/annaroyer/f3ae75a5e1a5f99c1914f43fc42f9011)
 
 ## Cameron Johnson
 - Link to Reflection Gist:
