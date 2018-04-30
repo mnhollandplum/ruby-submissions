@@ -74,8 +74,8 @@
 - [Wes Bos Video Code-Along Gist](https://github.com/mgmilton/intermissionwork/tree/master/wesdos_js30)
 
 ## Megan McMahon
-- Link to Reflection Gist:
-- Sorting Suite Repo:
-- Editor Challenge Repo:
-- Add Comments Challenge Repo:
-- Wes Bos Video Code-Along Gist:
+- Link to Reflection Gist: https://gist.github.com/memcmahon/9547d671edc2d15fe5881da7e7b18cda
+- Sorting Suite Repo: https://github.com/memcmahon/js_sorting_suite
+- Editor Challenge Repo: https://github.com/memcmahon/javascript-style-editor-challenge
+- Add Comments Challenge Repo: https://github.com/memcmahon/javascript-add-comments-challenge
+- Wes Bos Video Code-Along Gist: https://gist.github.com/memcmahon/637a21e763f0fc8fe35676cefe886457
