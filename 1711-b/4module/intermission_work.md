@@ -11,11 +11,11 @@
 - Wes Bos Video Code-Along Gist:  https://gist.github.com/amj133/b7f4f263726f2409f6e22389833b5f51
 
 ## Andy Dymond
-- Link to Reflection Gist:
-- Sorting Suite Repo:
-- Editor Challenge Repo:
-- Add Comments Challenge Repo:
-- Wes Bos Video Code-Along Gist:
+- Link to Reflection Gist: https://gist.github.com/andymond/0c4585256762b9c883fe1ef38354ee6e
+- Sorting Suite Repo: https://github.com/andymond/sorting-suite-js
+- Editor Challenge Repo: https://github.com/andymond/javascript-style-editor-challenge
+- Add Comments Challenge Repo:https://github.com/andymond/javascript-add-comments-challenge
+- Wes Bos Video Code-Along Gist: https://gist.github.com/andymond/bbb356abfbef504b17e2ba93f87c4614
 
 ## Anna Royer
 - Link to Reflection Gist: [pre-mod4 reflection](https://gist.github.com/annaroyer/235bb82935016b4848395afef481d291)
