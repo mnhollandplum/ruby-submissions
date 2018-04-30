@@ -67,11 +67,11 @@
 - Wes Bos Video Code-Along Gist:
 
 ## Matt Milton
-- Link to Reflection Gist:
-- Sorting Suite Repo:
-- Editor Challenge Repo:
-- Add Comments Challenge Repo:
-- Wes Bos Video Code-Along Gist:
+- [Link to Reflection Gist](https://gist.github.com/mgmilton/e28b902b416afbdc97a21f32b0769dd)
+- [Sorting Suite Repo](https://github.com/mgmilton/intermissionwork/tree/master/sorting_suite)
+- [Editor Challenge Repo](https://github.com/mgmilton/intermissionwork/tree/master/dom_manipulation_challenges/style_editor)
+- [Add Comments Challenge Repo](https://github.com/mgmilton/intermissionwork/tree/master/dom_manipulation_challenges/add_comments)
+- [Wes Bos Video Code-Along Gist](https://github.com/mgmilton/intermissionwork/tree/master/wesdos_js30)
 
 ## Megan McMahon
 - Link to Reflection Gist:
