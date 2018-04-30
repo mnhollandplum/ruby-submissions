@@ -43,7 +43,7 @@
 - Sorting Suite Repo: https://github.com/AtmaVichara/sorting-suite
 - Editor Challenge Repo: https://github.com/AtmaVichara/javascript-style-editor-challenge
 - Add Comments Challenge Repo: https://github.com/AtmaVichara/javascript-add-comments-challenge
-- Wes Bos Video Code-Along Gist:
+- Wes Bos Video Code-Along Gist: https://gist.github.com/AtmaVichara/fcb1f4b91b40f53bf38a7e15ddd0ce32
 
 ## Katherine Welyczko
 - Link to Reflection Gist: 
