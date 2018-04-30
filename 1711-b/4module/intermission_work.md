@@ -46,11 +46,11 @@
 - Wes Bos Video Code-Along Gist: https://gist.github.com/AtmaVichara/fcb1f4b91b40f53bf38a7e15ddd0ce32
 
 ## Luke Chambers
-- Link to Reflection Gist:
-- Sorting Suite Repo:
-- Editor Challenge Repo:
-- Add Comments Challenge Repo:
-- Wes Bos Video Code-Along Gist:
+- [Reflection Gist](https://gist.github.com/lnchambers/586fc75b9d81647610763c471dc0d148)
+- [Sorting Suite Repo](https://github.com/lnchambers/sorting-suite)
+- [Editor Challenge Repo](https://github.com/lnchambers/javascript-style-editor-challenge)
+- [Add Comments Challenge Repo](https://github.com/lnchambers/javascript-add-comments-challenge)
+- [Wes Bos Video Code-Along Gist](https://gist.github.com/lnchambers/15f086abce15426a3f701abd08fd021d)
 
 ## Matt Milton
 - [Link to Reflection Gist](https://gist.github.com/mgmilton/e28b902b416afbdc97a21f32b0769dd)
