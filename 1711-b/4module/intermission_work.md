@@ -31,13 +31,6 @@
 - Add Comments Challenge Repo: [Comments Challenge](https://github.com/anlewis/javascript-add-comments-challenge)
 - Wes Bos Video Code-Along Gist: [Wes Bos](https://gist.github.com/anlewis/0b58c5cd0fb70064a635eb823d79d0b0)
 
-## Cameron Johnson
-- Link to Reflection Gist:
-- Sorting Suite Repo:
-- Editor Challenge Repo:
-- Add Comments Challenge Repo:
-- Wes Bos Video Code-Along Gist:
-
 ## Ellen Cornelius
 - Link to Reflection Gist: https://gist.github.com/corneliusellen/8390259a5afc0947f26ad900b3768f4e
 - Sorting Suite Repo: https://github.com/corneliusellen/sort_js
@@ -51,13 +44,6 @@
 - Editor Challenge Repo: https://github.com/AtmaVichara/javascript-style-editor-challenge
 - Add Comments Challenge Repo: https://github.com/AtmaVichara/javascript-add-comments-challenge
 - Wes Bos Video Code-Along Gist: https://gist.github.com/AtmaVichara/fcb1f4b91b40f53bf38a7e15ddd0ce32
-
-## Katherine Welyczko
-- Link to Reflection Gist: 
-- Sorting Suite Repo: 
-- Editor Challenge Repo: 
-- Add Comments Challenge Repo: 
-- Wes Bos Video Code-Along Gist: 
 
 ## Luke Chambers
 - Link to Reflection Gist:
