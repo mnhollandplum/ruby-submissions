@@ -48,7 +48,7 @@ The project will be assessed with the following guidelines:
 
 - [ ] Application implements iterations 0, 1, 2, 3, and either 4 or 5
 
-### 5. Version Control
+### 5. Version Control: 3
 
 - [x] Developers commit at a pace of at least 1 commit per hour
 - [x] Developers implements branching and PRs
