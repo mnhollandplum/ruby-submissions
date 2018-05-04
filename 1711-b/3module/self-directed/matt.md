@@ -1,33 +1,31 @@
-### Feature Delivery
-
 **1. Completion**
 
-- [ ] Developer completed all the user stories and requirements set by the client.
+- [x] Developer completed all the user stories and requirements set by the client.
 
 **2. Organization**
 
-- [ ] Developer used a project management tool and updated their progress in real-time.
+- [x] Developer used a project management tool and updated their progress in real-time.
 
 ### Technical Quality
 
 **1. Test-Driven Development**
 
-- [ ] Project demonstrates high value testing at different layers (above 90%).
+- [x] Project demonstrates high value testing at different layers (above 90%).
 
 **2. Code Quality**
 
-- [ ] Project uses abstraction.
-- [ ] Project shows understanding of MVC principles (no logic in views, clean controllers, serializers and presenters to handle formatting rather than models etc.)
+- [x] Project uses abstraction.
+- [/] Project shows understanding of MVC principles (no logic in views, clean controllers, serializers and presenters to handle formatting rather than models etc.)
 
 **3. Technical Growth**
 
-- [ ] Project uses at least one new technology
+- [x] Project uses at least one new technology
 
 ### Product Experience
 
 **1. User Experience**
 
-- [ ] Project is ready to demo
+- [x] Project is ready to demo
 
 **2. Performance**
 

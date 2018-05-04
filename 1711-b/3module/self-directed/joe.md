@@ -6,22 +6,23 @@
 
 **2. Organization**
 
-- [ ] Developer used a project management tool and updated their progress in real-time.
+- [/] Developer used a project management tool and updated their progress in real-time.
 
 ### Technical Quality
 
 **1. Test-Driven Development**
 
 - [ ] Project demonstrates high value testing at different layers (above 90%).
+- 55.5%
 
 **2. Code Quality**
 
-- [ ] Project uses abstraction.
-- [ ] Project shows understanding of MVC principles (no logic in views, clean controllers, serializers and presenters to handle formatting rather than models etc.)
+- [x] Project uses abstraction.
+- [x] Project shows understanding of MVC principles (no logic in views, clean controllers, serializers and presenters to handle formatting rather than models etc.)
 
 **3. Technical Growth**
 
-- [ ] Project uses at least one new technology
+- [x] Project uses at least one new technology
 
 ### Product Experience
 
