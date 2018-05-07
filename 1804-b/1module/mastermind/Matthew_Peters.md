@@ -1,8 +1,12 @@
-Assessor:
+Assessor: Brian
 
-Repo:
+Repo: https://github.com/wehttamclan/mastermind
 
 Notes:
+
+* In runner, your objects don't instance variables
+* Some of your classes can be condensed into one class
+* Correct elements should be broken into helper methods
 
 The project will be assessed with the following guidelines:
 
