@@ -1,6 +1,6 @@
-Assessor:
+Assessor: Brian 
 
-Repo:
+Repo: https://github.com/colinwarmstrong/mastermind
 
 Notes:
 
