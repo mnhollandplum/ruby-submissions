@@ -1,12 +1,14 @@
-Assessor:
+Assessor: Brian
 
-Repo:
+Repo: https://github.com/MacInnes/mastermind
 
 Notes:
 
 * count variable is ambiguous 
 * don't need to save return value of format win to output variable
 * Make matching colors and positions two separate methods
+* opportunities for refactoring in runner
+* Missing tests for random and format win
 
 The project will be assessed with the following guidelines:
 
@@ -17,7 +19,7 @@ The project will be assessed with the following guidelines:
 
 **Expectations:**
 
-### 1. Ruby Syntax & Style
+### 1. Ruby Syntax & Style: 3
 
 - [x] Applies appropriate attribute encapsulation  
 - [x] Developer creates instance and local variables appropriately
@@ -27,19 +29,19 @@ The project will be assessed with the following guidelines:
 - [x] Code does not exceed 80 characters per line
 - [x] Each class has correctly-named files and corresponding test files in the proper directories
 
-### 2. Breaking Logic into Components
+### 2. Breaking Logic into Components: 3
 
-- [ ] Code is effectively broken into methods & classes
-- [ ] Developer writes methods less than 10 lines
-- [ ] No more than 3 methods break the principle of SRP
+- [x] Code is effectively broken into methods & classes
+- [x] Developer writes methods less than 10 lines
+- [x] No more than 3 methods break the principle of SRP
 
 
-### 3. Test-Driven Development
+### 3. Test-Driven Development: 3
 
 - [ ] Each method is tested  
-- [ ] Tests implement Ruby syntax & style   
+- [x] Tests implement Ruby syntax & style   
 
 
-### 4. Functionality
+### 4. Functionality: 3
 
-- [ ] Application meets all requirements (extension not req'd)
+- [x] Application meets all requirements (extension not req'd)
