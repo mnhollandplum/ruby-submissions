@@ -1,8 +1,18 @@
-Assessor:
+Assessor: Brian 
 
-Repo:
+Repo: https://github.com/sdmalek44/mastermind
 
 Notes:
+
+* time array in text class is a great place for a hash
+* Don't put data type in variable name
+* Rename Text class to something about user input
+* If you are nesting, probably a good sign for a refactor
+* You should break your runner file into methods
+* Variable names aren't idomatic
+* Generating the answer based on difficulty could be it's own method
+  * This would ensure dynamic functionality
+* Can use optional params instead of accessors to make testing possible
 
 The project will be assessed with the following guidelines:
 
@@ -13,29 +23,29 @@ The project will be assessed with the following guidelines:
 
 **Expectations:**
 
-### 1. Ruby Syntax & Style
+### 1. Ruby Syntax & Style: 2
 
-- [ ] Applies appropriate attribute encapsulation  
-- [ ] Developer creates instance and local variables appropriately
+- [x] Applies appropriate attribute encapsulation  
+- [x] Developer creates instance and local variables appropriately
 - [ ] Naming follows convention (is idiomatic)
-- [ ] Ruby methods used are logical and readable
-- [ ] Code is indented properly
-- [ ] Code does not exceed 80 characters per line
-- [ ] Each class has correctly-named files and corresponding test files in the proper directories
+- [x] Ruby methods used are logical and readable
+- [x] Code is indented properly
+- [x] Code does not exceed 80 characters per line
+- [x] Each class has correctly-named files and corresponding test files in the proper directories
 
-### 2. Breaking Logic into Components
+### 2. Breaking Logic into Components: 3
 
-- [ ] Code is effectively broken into methods & classes
+- [x] Code is effectively broken into methods & classes
 - [ ] Developer writes methods less than 10 lines
-- [ ] No more than 3 methods break the principle of SRP
+- [x] No more than 3 methods break the principle of SRP
 
 
-### 3. Test-Driven Development
+### 3. Test-Driven Development: 3
 
-- [ ] Each method is tested  
-- [ ] Tests implement Ruby syntax & style   
+- [x] Each method is tested  
+- [x] Tests implement Ruby syntax & style   
 
 
-### 4. Functionality
+### 4. Functionality: 3
 
-- [ ] Application meets all requirements (extension not req'd)
+- [x] Application meets all requirements (extension not req'd)
