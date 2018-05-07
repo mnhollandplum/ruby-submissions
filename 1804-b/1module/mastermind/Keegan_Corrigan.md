@@ -23,7 +23,7 @@ The project will be assessed with the following guidelines:
 
 **Expectations:**
 
-### 1. Ruby Syntax & Style
+### 1. Ruby Syntax & Style: 2
 
 - [x] Applies appropriate attribute encapsulation  
 - [ ] Developer creates instance and local variables appropriately
