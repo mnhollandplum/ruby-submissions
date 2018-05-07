@@ -1,8 +1,13 @@
-Assessor:
+Assessor: Brian
 
-Repo:
+Repo: https://github.com/JPLynch35/mastermind
 
 Notes:
+
+* Too may attr_readers
+* Too much in initialize
+* Don't need to rename variables for Text.new
+* Need to work on your naming of variables and methods
 
 The project will be assessed with the following guidelines:
 
