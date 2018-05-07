@@ -1,8 +1,15 @@
-Assessor:
+Assessor: Brian
 
-Repo:
+Repo: https://github.com/izcom/mastermind
 
 Notes:
+
+* Colors should be stored in an array, not a hash
+* I like the use of helper methods in the start method. Play should be a helper method
+* Play method is too long
+* "p".downcase will just be "p"
+* Bug when using = instead of ==
+
 
 The project will be assessed with the following guidelines:
 
