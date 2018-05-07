@@ -9,7 +9,9 @@ Notes:
 * Play method is too long
 * "p".downcase will just be "p"
 * Bug when using = instead of ==
-
+* Lots of unnecessary to_s and gsub
+* Cheat will never work because the guess is formatted as an array of characters
+* Should be using a block parameter to track index, not a counter
 
 The project will be assessed with the following guidelines:
 
