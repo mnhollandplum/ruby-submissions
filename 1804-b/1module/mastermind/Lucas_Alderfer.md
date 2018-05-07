@@ -1,8 +1,10 @@
-Assessor:
+Assessor: Brian
 
-Repo:
+Repo: https://github.com/LucasAlderfer/mastermind
 
 Notes:
+
+*
 
 The project will be assessed with the following guidelines:
 
