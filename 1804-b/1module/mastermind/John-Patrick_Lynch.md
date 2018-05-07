@@ -27,7 +27,7 @@ The project will be assessed with the following guidelines:
 
 - [ ] Applies appropriate attribute encapsulation  
 - [ ] Developer creates instance and local variables appropriately
-- [x] Naming follows convention (is idiomatic)
+- [ ] Naming follows convention (is idiomatic)
 - [x] Ruby methods used are logical and readable
 - [x] Code is indented properly
 - [x] Code does not exceed 80 characters per line
