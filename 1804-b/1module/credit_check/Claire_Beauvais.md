@@ -1,8 +1,6 @@
-Assessor:
+Assessor: Holt
 
-Repo:
-
-Notes:
+Repo: https://github.com/clairebvs/credit_check.git
 
 The project will be assessed with the following guidelines:
 
@@ -11,29 +9,30 @@ The project will be assessed with the following guidelines:
 * 2: Below expectations
 * 1: Well-below expectations
 
-### 1. Ruby Syntax & Style
+### 1. Ruby Syntax & Style - 3.5
 
-- [ ] Naming follows convention (is idiomatic)
-- [ ] Ruby methods used are logical and readable
-- [ ] Code is indented properly
-- [ ] Code does not exceed 80 characters per line
+- [X] Naming follows convention (is idiomatic)
+- [X] Ruby methods used are logical and readable
+- [X] Code is indented properly
+- [X] Code does not exceed 80 characters per line
+  - Make sure to remove all prys and comments (before you push code)!
 
-### 2. Breaking Logic into Components
+### 2. Breaking Logic into Components - 4
 
-- [ ] Code is effectively broken into methods & classes
-- [ ] May break the principle of SRP
+- [X] Code is effectively broken into methods & classes
+- [X] May break the principle of SRP
 
-### 3. Test-Driven Development
+### 3. Test-Driven Development - 3
 
 Expectations:
 
-- [ ] Each method is tested  
-- [ ] Functionality is accurately covered
-- [ ] Tests implement Ruby syntax & style   
-- [ ] Balances unit and integration tests
-- [ ] Evidence of edge cases testing
-- [ ] A test RakeTask is implemented
+- [X] Each method is tested  
+- [X] Functionality is accurately covered
+- [X] Tests implement Ruby syntax & style   
+- [X] Balances unit and integration tests
+- [-] Evidence of edge cases testing
+- [X] A test RakeTask is implemented
 
-## 4. Functionality
+## 4. Functionality - 3
 
-- [ ] Application meets all requirements (extension not req'd)
+- [X] Application meets all requirements (extension not req'd)
