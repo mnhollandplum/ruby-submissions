@@ -52,8 +52,8 @@ For the evaluation we'll work through the expectations above and look at the fol
 ### 6. Testing
 
 * Exceeds Expectations: Project has a running test suite that covers all functionality, exercises the application at multiple levels, and covers edge cases
-* **Meets Expectations: Project has a running test suite that tests at multiple levels**
-* Below Expectations: Project has sporadic use of tests
+* Meets Expectations: Project has a running test suite that tests at multiple levels
+* **Below Expectations: Project has sporadic use of tests**
 
 
 ### 7. Usability
