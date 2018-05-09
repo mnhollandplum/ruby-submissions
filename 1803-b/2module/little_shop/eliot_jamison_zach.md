@@ -61,9 +61,8 @@ For the evaluation we'll work through the expectations above and look at the fol
 ### 7. Usability
 
 * Exceeds Expectations: Project is highly usable and ready to deploy to customers
-* Meets Expectations: Project is usable, but needs more polish or navigation before it'd be customer-ready
-* **Below Expectations: Project needs more attention to the User Experience, but works**
-
+* **Meets Expectations: Project is usable, but needs more polish or navigation before it'd be customer-ready**
+* Below Expectations: Project needs more attention to the User Experience, but works
 
 ### 8. Workflow
 
