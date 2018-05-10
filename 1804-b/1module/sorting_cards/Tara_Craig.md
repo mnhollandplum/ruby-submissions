@@ -1,8 +1,9 @@
-Assessor:
+Assessor: Mike
 
-Repo:
+Repo:https://github.com/TCraig7/sorting_cards
 
 Notes:
+* Completed most of I2, got to but not including current card
 
 ## Evaluation Rubric
 
@@ -17,24 +18,30 @@ The project will be assessed with the following guidelines:
 
 ### 1. Ruby Syntax & Style
 
-- [ ] Applies appropriate attribute encapsulation  
-- [ ] Developer creates instance and local variables appropriately
-- [ ] Naming follows convention (is idiomatic)
-- [ ] Ruby methods used are logical and readable
-- [ ] Code is indented properly
-- [ ] Code does not exceed 80 characters per line
-- [ ] Each class has correctly-named files and corresponding test files in the proper directories
+- [x] Applies appropriate attribute encapsulation
+- [x] Developer creates instance and local variables appropriately
+- [x] Naming follows convention (is idiomatic)
+- [x] Ruby methods used are logical and readable
+- [x] Code is indented properly
+- [x] Code does not exceed 80 characters per line
+- [x] Each class has correctly-named files and corresponding test files in the proper directories
+
+* 3: Meets expectations
 
 ### 2. Breaking Logic into Components
 
-- [ ] Code is effectively broken into methods & classes
-- [ ] Developer writes methods less than 10 lines
-- [ ] No more than 3 methods break the principle of SRP
+- [x] Code is effectively broken into methods & classes
+- [x] Developer writes methods less than 10 lines
+- [x] No more than 3 methods break the principle of SRP
+
+* 3: Meets expectations
 
 ### 3. Test-Driven Development
 
-- [ ] Each method is tested  
-- [ ] Tests implement Ruby syntax & style   
+- [x] Each method is tested
+- [x] Tests implement Ruby syntax & style
+
+* 3: Meets expectations
 
 ### 4. Functionality
 
@@ -43,4 +50,7 @@ The project will be assessed with the following guidelines:
 - [ ] 4: Completes Iteration 4 and one extension.
 - [ ] 3: Completes Iteration 3
 - [ ] 2: Completes Iteration 2
-- [ ] 1: Completes Iteration 1
+- [x] 1: Completes Iteration 1
+
+* 1: Well-below expectations
+
