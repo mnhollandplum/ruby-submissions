@@ -48,6 +48,6 @@ The project will be assessed with the following guidelines:
 - [ ] Application meets all requirements (extension not req'd)
 
 - [ ] 4: Completes Iteration 4 and one extension.
-- [ ] 3: Completes Iteration 3
-- [x] 2: Completes Iteration 2
+- [x] 3: Completes Iteration 3
+- [ ] 2: Completes Iteration 2
 - [x] 1: Completes Iteration 1
