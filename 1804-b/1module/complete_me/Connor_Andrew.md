@@ -4,6 +4,8 @@ Repo: https://github.com/letsdothis64/complete_me
 
 Notes:
 
+* Any time you're saying if ..., then return a boolean, there's an opportunity for a refactor
+
 ## Evaluation Rubric
 
 The project will be assessed with the following guidelines:
