@@ -52,10 +52,6 @@ The project will be assessed with the following guidelines:
 - [x] Test Coverage metrics are present (SimpleCov)
 - [x] Test Coverage metrics exceed 95%
 
-- [ ] 4: Above expectations
-- [ ] 3: Meets expectations
-- [ ] 2: Below expectations
-- [ ] 1: Well-below expectations
 
 ### 4. Git Workflow: 3
 
