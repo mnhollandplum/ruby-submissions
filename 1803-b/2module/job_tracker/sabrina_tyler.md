@@ -31,17 +31,17 @@
 - [x] When the user visits the page for a specific Job, in addition to information about the job there is a form that allows them to enter a Comment for that Job (e.g. “Spoke to hiring manager, Jacob. Plan to follow up Monday.”).
 - [ ] Each comment has content (also created_at and updated_at).
 - [x] When the user submits a new comment, they are redirected back to the page for that specific job and the comment appears on the page.
-- [ ] The user can leave multiple comments on a job and the most recent comments are shown above older comments (in reverse of the order in which they were created).
+- [x] The user can leave multiple comments on a job and the most recent comments are shown above older comments (in reverse of the order in which they were created).
 
 ### Company Contacts
 
-- [x] When the user visits the page for a specific Company, in addition to information about the company there is a form that allows them to enter a Contact for that Company (e.g. “Penelope Santorini”, “Hiring Manager”, “penelope@wooo.com”).
+- [ ] When the user visits the page for a specific Company, in addition to information about the company there is a form that allows them to enter a Contact for that Company (e.g. “Penelope Santorini”, “Hiring Manager”, “penelope@wooo.com”).
 - [ ] Each Contact has a full name, position, email, and company (which relates to the company you’ve already created). It should be possible for a Company to have more than one Contact, but a Contact only works at one Company.
-- [z] When the user submits a new contact, they are redirected back to the page for that specific company and the contact appears on the page.
+- [ ] When the user submits a new contact, they are redirected back to the page for that specific company and the contact appears on the page.
 
 ### Analysis
 
-- [x] The user can visit `/jobs?sort=location` to view a list of the jobs sorted by `city`.
+- [ ] The user can visit `/jobs?sort=location` to view a list of the jobs sorted by `city`.
 - [ ] The user can visit `/dashboard` to see
   - [ ] A count of jobs by `level_of_interest`
   - [ ] The top three companies ranked by average level of interest along with their respective average level of interest.
@@ -70,12 +70,12 @@
 - [x] ActiveRecord methods are used in models to supply all appropriate functionality
 - [x] Methods exist on the appropriate model
 - [x] Developers are not referencing other classes or `self` in models unnecessarily
-- [ ] Ruby enumerables are not used where ActiveRecord methods could provide the necessary functionality
+- [x] Ruby enumerables are not used where ActiveRecord methods could provide the necessary functionality
 - [x] Developer can explain the ActiveRecord methods they used and the relationships between ActiveRecord models
 
 ### Views
 
-- [ ] Logic has been removed from views and controllers to the full degree possible
+- [x] Logic has been removed from views and controllers to the full degree possible
 - [x] Developer has minimized the number of variables passed to the view
 - [ ] Developer can articulately explain their strategies for extracting this logic
 - [x] Developer uses partials to reduce duplication of code in the view layer
@@ -136,7 +136,7 @@
 
 ### 7. Usability
 
-* Below Expectations: Project needs more attention to the User Experience, but works
+* Meets Expectations: Project is usable, but needs more polish or navigation before it'd be customer-ready
 
 ### 8. Workflow
 
