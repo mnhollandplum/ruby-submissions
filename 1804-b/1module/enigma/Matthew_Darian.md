@@ -33,11 +33,6 @@ The project will be assessed with the following guidelines:
 - [x] Each class has correctly-named files and corresponding test files in the proper directories
 - [x] Code has been linted and corrected properly.
 
-- [ ] 4: Above expectations
-- [ ] 3: Meets expectations
-- [ ] 2: Below expectations
-- [ ] 1: Well-below expectations
-
 ### 2. Breaking Logic into Components: 3
 
 - [x] Code is effectively broken into methods & classes
