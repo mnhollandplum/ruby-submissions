@@ -5,6 +5,7 @@ Repo: https://github.com/clairebvs/Enigma.git
 Notes:
 
 * Opportunity to refactor things out of the Enigma Class
+* Need some edge case testing, for example can you encrypt an empty string?
 
 ## Evaluation Rubric
 
