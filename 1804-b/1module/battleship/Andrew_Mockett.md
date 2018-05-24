@@ -1,9 +1,9 @@
-Assessor:
+Assessor: Holt
 
-Repo:
+Repo: https://github.com/MacInnes/battleship
 
 Notes:
-
+- great number of commits; make sure messages are written in the imperative. Would like to see feature branches.
 ## Evaluation Rubric
 
 The project will be assessed with the following rubric:
@@ -48,8 +48,8 @@ Expectations:
 
 - [ ] Application meets all requirements (extension not req'd)
 
-### 5. Version Control
+### 5. Version Control - 2.5
 
-- [ ] Developer commits at a pace of at least 1 commit per hour
+- [X] Developer commits at a pace of at least 1 commit per hour
 - [ ] Developer implements branching and PRs
-- [ ] The final submitted version is merged into master
+- [X] The final submitted version is merged into master
