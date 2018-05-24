@@ -1,6 +1,6 @@
-Assessor:
+Assessor: Holt
 
-Repo:
+Repo: https://github.com/wehttamclan/battleship
 
 Notes:
 
