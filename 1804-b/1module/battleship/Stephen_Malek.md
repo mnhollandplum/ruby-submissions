@@ -1,8 +1,9 @@
-Assessor:
+Assessor: Holt
 
-Repo:
+Repo: https://github.com/sdmalek44/battleship
 
 Notes:
+- Good number of commits, make sure messages are written in the imperative. Would like to see more branches throughout the project.
 
 ## Evaluation Rubric
 
