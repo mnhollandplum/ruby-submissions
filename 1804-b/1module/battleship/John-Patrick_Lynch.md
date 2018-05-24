@@ -1,8 +1,9 @@
-Assessor:
+Assessor: Holt
 
-Repo:
+Repo: https://github.com/MacInnes/battleship
 
 Notes:
+- Clear and consistent commit messages following conventions. Would like to see more use of branches for specific features.
 
 ## Evaluation Rubric
 
@@ -48,8 +49,8 @@ Expectations:
 
 - [ ] Application meets all requirements (extension not req'd)
 
-### 5. Version Control
+### 5. Version Control - 3
 
-- [ ] Developer commits at a pace of at least 1 commit per hour
-- [ ] Developer implements branching and PRs
-- [ ] The final submitted version is merged into master
+- [X] Developer commits at a pace of at least 1 commit per hour
+- [X] Developer implements branching and PRs
+- [X] The final submitted version is merged into master
