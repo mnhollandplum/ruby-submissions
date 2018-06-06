@@ -3,13 +3,14 @@ Assessor: Holt
 Repo: https://github.com/sdmalek44/battleship
 
 Notes:
+- Beautiful style, I love reading your code!
 - Good number of commits, make sure messages are written in the imperative. Would like to see more branches throughout the project.
 
 ## Evaluation Rubric
 
 The project will be assessed with the following rubric:
 
-### 1. Ruby Syntax & Style 4
+### 1. Ruby Syntax & Style - 4 💯
 
 Expectations:
 
@@ -23,7 +24,7 @@ Expectations:
 - [X] A directory/file structure provides basic organization via lib/ and/or /test
 
 
-### 2. Breaking Logic into Components 3
+### 2. Breaking Logic into Components - 3
 
 Expectations:
 
@@ -31,7 +32,7 @@ Expectations:
 - [X] Developer writes methods less than 7 lines
 - [X] No more than 3 methods break the principle of SRP
 
-### 3. Test-Driven Development 3
+### 3. Test-Driven Development - 3 💪
 
 Expectations:
 
@@ -43,13 +44,13 @@ Expectations:
 - [X] Test Coverage metrics are present (SimpleCov)
 - [X] A test RakeTask is implemented
 
-### 4. Functionality 3
+### 4. Functionality - 3
 
 Expectations:
 
 - [X] Application meets all requirements (extension not req'd)
 
-### 5. Version Control 3
+### 5. Version Control - 2.75
 
 - [X] Developer commits at a pace of at least 1 commit per hour
 - [ ] Developer implements branching and PRs
