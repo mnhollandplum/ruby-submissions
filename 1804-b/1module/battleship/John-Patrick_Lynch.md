@@ -3,54 +3,57 @@ Assessor: Holt
 Repo: https://github.com/MacInnes/battleship
 
 Notes:
-- Clear and consistent commit messages following conventions. Would like to see more use of branches for specific features.
+- Great method/variable naming🎉
+- Clean and consistent code throughout
+- Great job explaining your code and rationale - love how thoughtful and thorough you are
+- Clear and consistent commit messages following conventions. Would like to see more use of branches for specific features!
 
 ## Evaluation Rubric
 
 The project will be assessed with the following rubric:
 
-### 1. Ruby Syntax & Style
+### 1. Ruby Syntax & Style - 3.5 👍
 
 Expectations:
 
-- [ ] Applies appropriate attribute encapsulation  
-- [ ] Developer creates instance and local variables appropriately
-- [ ] Naming follows convention (is idiomatic)
-- [ ] Ruby methods used are logical and readable  
-- [ ] Developer implements best-choice enumerable methods
-- [ ] Code is indented properly
-- [ ] Code does not exceed 80 characters per line
-- [ ] A directory/file structure provides basic organization via lib/ and/or /test
+- [X] Applies appropriate attribute encapsulation  
+- [X] Developer creates instance and local variables appropriately
+- [X] Naming follows convention (is idiomatic)
+- [X] Ruby methods used are logical and readable  
+- [X] Developer implements best-choice enumerable methods
+- [X] Code is indented properly
+- [X] Code does not exceed 80 characters per line
+- [X] A directory/file structure provides basic organization via lib/ and/or /test
 
 
-### 2. Breaking Logic into Components
-
-Expectations:
-
-- [ ] Code is effectively broken into methods & classes
-- [ ] Developer writes methods less than 7 lines
-- [ ] No more than 3 methods break the principle of SRP
-
-### 3. Test-Driven Development
+### 2. Breaking Logic into Components - 3
 
 Expectations:
 
-- [ ] Each method is tested  
-- [ ] Functionality is accurately covered
-- [ ] Tests implement Ruby syntax & style   
-- [ ] Balances unit and integration tests
-- [ ] Evidence of edge cases testing
-- [ ] Test Coverage metrics are present (SimpleCov)
-- [ ] A test RakeTask is implemented
+- [X] Code is effectively broken into methods & classes
+- [X] Developer writes methods less than 7 lines
+- [X] No more than 3 methods break the principle of SRP
 
-### 4. Functionality
+### 3. Test-Driven Development - 3
 
 Expectations:
 
-- [ ] Application meets all requirements (extension not req'd)
+- [X] Each method is tested  
+- [X] Functionality is accurately covered
+- [X] Tests implement Ruby syntax & style   
+- [X] Balances unit and integration tests
+- [X] Evidence of edge cases testing
+- [X] Test Coverage metrics are present (SimpleCov)
+- [X] A test RakeTask is implemented
+
+### 4. Functionality - 3 🤓
+
+Expectations:
+
+- [X] Application meets all requirements (extension not req'd)
 
 ### 5. Version Control - 3
 
 - [X] Developer commits at a pace of at least 1 commit per hour
-- [X] Developer implements branching and PRs
+- [ ] Developer implements branching and PRs
 - [X] The final submitted version is merged into master
