@@ -1,8 +1,6 @@
-Assessor:
+Assessor: Holt
 
-Repo:
-
-Notes:
+Repo: https://github.com/MLuce/Enigma
 
 ## Evaluation Rubric
 
@@ -17,29 +15,32 @@ The project will be assessed with the following guidelines:
 
 ### 1. Ruby Syntax & Style
 
-- [ ] Applies appropriate attribute encapsulation  
-- [ ] Developer creates instance and local variables appropriately
+- [X] Applies appropriate attribute encapsulation   
+- [X] Developer creates instance and local variables appropriately
 - [ ] Naming follows convention (is idiomatic)
-- [ ] Ruby methods used are logical and readable  
-- [ ] Developer implements appropriate enumerable methods (#each is used only when necessary)
-- [ ] Code is indented properly
+  - Names were very clear and specific but let's work on shortening for readability!
+- [X] Ruby methods used are logical and readable  
+- [X] Developer implements appropriate enumerable methods (#each is used only when necessary)
+- [X] Code is indented properly
 - [ ] Code does not exceed 80 characters per line
-- [ ] Each class has correctly-named files and corresponding test files in the proper directories
-- [ ] Code has been linted and corrected properly.
+  - some long names contributed to this!
+- [X] Each class has correctly-named files and corresponding test files in the proper directories
+- [X] Code has been linted and corrected properly.
 
 - [ ] 4: Above expectations
-- [ ] 3: Meets expectations
+- [X] 3: Meets expectations
 - [ ] 2: Below expectations
 - [ ] 1: Well-below expectations
 
 ### 2. Breaking Logic into Components
 
 - [ ] Code is effectively broken into methods & classes
-- [ ] Developer writes methods less than 8 lines
-- [ ] Methods do not break the principle of SRP
+  -   - Great job pulling out key and offset classes, would like to see encrytor/decryptor pulled out into classes
+- [X] Developer writes methods less than 8 lines
+- [X] Methods do not break the principle of SRP
 
 - [ ] 4: Above expectations
-- [ ] 3: Meets expectations
+- [X] 3: Meets expectations
 - [ ] 2: Below expectations
 - [ ] 1: Well-below expectations
 
@@ -60,14 +61,14 @@ The project will be assessed with the following guidelines:
 
 ### 4. Git Workflow
 
-- [ ] Repository demonstrates that each member of team has contributed fairly equally.
-- [ ] Developers commit at a rate of approximately one commit every 30 minutes.
-- [ ] Repository shows the use of branches.
-- [ ] Developers use a pull request workflow.
-- [ ] Developers resolve HoundCI complaints in their pull requests.
+- [X] Repository demonstrates that each member of team has contributed fairly equally.
+- [X] Developers commit at a rate of approximately one commit every 30 minutes.
+- [X] Repository shows the use of branches.
+- [X] Developers use a pull request workflow.
+- [X] Developers resolve HoundCI complaints in their pull requests.
 
 - [ ] 4: Above expectations
-- [ ] 3: Meets expectations
+- [X] 3.5: Meets expectations
 - [ ] 2: Below expectations
 - [ ] 1: Well-below expectations
 
@@ -75,7 +76,7 @@ The project will be assessed with the following guidelines:
 
 - [ ] Application meets all requirements (extensions not required for a 3)
 
-- [ ] 4: Above expectations
+- [X] 4: Above expectations
 - [ ] 3: Meets expectations
 - [ ] 2: Below expectations
 - [ ] 1: Well-below expectations
