@@ -4,42 +4,42 @@ Each team should use the rubric below to self assess your project. Bring this to
 
 ### Passing?
 
-- [ ] Yes
+- [X] Yes
 - [ ] No
 
 ### Developer Empathy and Technical Debt
 
-- [ ] Dev(s) can point out areas where they may have created or added to technical debt (required)
-- [ ] Dev(s) can explain how the previous developers could have written their code to be more maintainable (required)
+- [X] Dev(s) can point out areas where they may have created or added to technical debt (required)
+- [X] Dev(s) can explain how the previous developers could have written their code to be more maintainable (required)
 
 ### Completion
 
-- [ ] All user stories complete (required)
-- [ ] All spec harness tests are passing (required)
-- [ ] All requirements set by your instructor have been met. (required)
+- [X] All user stories complete (required)
+- [X] All spec harness tests are passing (required)
+- [X] All requirements set by your instructor have been met. (required)
 
 ### Testing
 
-- [ ] I would be satisfied paying for this test suite. (required)
-- [ ] Common edge case are tested. (5 required)
-- [ ] Unit testing is above 90%. (required)
+- [X] I would be satisfied paying for this test suite. (required)
+- [X] Common edge case are tested. (5 required)
+- [X] Unit testing is above 90%. (required)
 
 **Passing project utilize two or more of these techniques in multiple tests:**
 
-- [ ] Fixtures
+- [X] Fixtures
 - [ ] Mocks
 - [ ] Stubs
-- [ ] Doubles
+- [X] Doubles
 - [ ] Spies
 
 ### Code Quality
 
-- [ ] Project uses polymorphism (required)
+- [X] Project uses polymorphism (required)
 
 **Passing project uses one (required) or more of the following**
 
-- [ ] Project uses encapsulation
-- [ ] Project uses abstraction
+- [X] Project uses encapsulation
+- [X] Project uses abstraction
 - [ ] Project uses inheritance
 
 ### Explorers and Risk Takers
