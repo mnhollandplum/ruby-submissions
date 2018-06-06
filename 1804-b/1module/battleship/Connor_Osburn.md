@@ -1,14 +1,18 @@
-Assessor: Holt 
+Assessor: Holt
 
 Repo: https://github.com/letsdothis64/battleship
 
 Notes:
+- Thoughtful design decisions
+- Clean and clear code
+- Good use of enumerables
+- Keep working on getting down those TDD and git workflow habits!
 
 ## Evaluation Rubric
 
 The project will be assessed with the following rubric:
 
-### 1. Ruby Syntax & Style - 3.5
+### 1. Ruby Syntax & Style - 3.5 💯
 
 Expectations:
 
@@ -22,7 +26,7 @@ Expectations:
 - [X] A directory/file structure provides basic organization via lib/ and/or /test
 
 
-### 2. Breaking Logic into Components - 3
+### 2. Breaking Logic into Components - 3 
 
 Expectations:
 
