@@ -11,11 +11,11 @@
 - Wes Bos Video Code-Along Gist:
 
 ## Adam Lusk
-- Link to Reflection Gist:
-- Sorting Suite Repo:
-- Editor Challenge Repo:
-- Add Comments Challenge Repo:
-- Wes Bos Video Code-Along Gist:
+- Link to Reflection Gist: [Reflection](https://gist.github.com/Vadlusk/102481b75ff7f9e8244f837036590612)
+- Sorting Suite Repo: [Sorting Suite](https://github.com/Vadlusk/sorting-suite)
+- Editor Challenge Repo: [Editor](https://github.com/Vadlusk/javascript-style-editor-challenge)
+- Add Comments Challenge Repo: [Add Comments](https://github.com/Vadlusk/javascript-add-comments-challenge)
+- Wes Bos Video Code-Along Gist: [Wes Bos](https://gist.github.com/Vadlusk/eb5445386fc281983ae913c44dac843d)
 
 ## Alex Cutschall
 - Link to Reflection Gist:
