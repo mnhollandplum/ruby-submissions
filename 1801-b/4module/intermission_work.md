@@ -4,11 +4,11 @@
 * For all other requirements, create your own repo/gist and link below
 
 ## Adam Conway
-- Link to Reflection Gist:
-- Sorting Suite Repo:
-- Editor Challenge Repo:
-- Add Comments Challenge Repo:
-- Wes Bos Video Code-Along Gist:
+- Link to Reflection Gist: [Reflection](https://gist.github.com/adam-conway/62ef72b0b42a57aa5a3a6ee80a6a13f1)
+- Sorting Suite Repo: [Sorting Suite](https://github.com/adam-conway/sorting-suite)
+- Editor Challenge Repo: [Editor Challenge](https://github.com/adam-conway/javascript-style-editor-challenge)
+- Add Comments Challenge Repo: [Add Comments Challenge](https://github.com/adam-conway/javascript-add-comments-challenge)
+- Wes Bos Video Code-Along Gist: [Code-Along](https://gist.github.com/adam-conway/65f5d005a14e66297d71456873655884)
 
 ## Adam Lusk
 - Link to Reflection Gist:
