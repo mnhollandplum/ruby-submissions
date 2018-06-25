@@ -25,11 +25,11 @@
 - Wes Bos Video Code-Along Gist:
 
 ## Andrew Piermarini
-- Link to Reflection Gist:
-- Sorting Suite Repo:
-- Editor Challenge Repo:
-- Add Comments Challenge Repo:
-- Wes Bos Video Code-Along Gist:
+- Link to Reflection Gist: https://gist.github.com/agpiermarini/d66fea4a10f0d2869200a71d0b8d1f25
+- Sorting Suite Repo: https://github.com/agpiermarini/sorting-suite
+- Editor Challenge Repo: https://github.com/agpiermarini/javascript-style-editor-challenge
+- Add Comments Challenge Repo: https://github.com/agpiermarini/javascript-add-comments-challenge
+- Wes Bos Video Code-Along Gist: https://gist.github.com/agpiermarini/231b44a66b3f9927988faf91c3871b08
 
 ## Clee Pollock
 - Link to Reflection Gist:
