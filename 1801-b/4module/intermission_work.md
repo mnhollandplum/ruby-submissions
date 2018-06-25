@@ -53,11 +53,11 @@
 - Wes Bos Video Code-Along Gist:
 
 ## Kelly Schroeder
-- Link to Reflection Gist: https://gist.github.com/anubiskhan/f1bc196899d7e29fd98801dd01404ee4
-- Sorting Suite Repo: https://github.com/anubiskhan/sorting-suite
-- Editor Challenge Repo: https://github.com/anubiskhan/javascript-style-editor-challenge
-- Add Comments Challenge Repo: https://github.com/anubiskhan/javascript-add-comments-challenge
-- Wes Bos Video Code-Along Gist: https://gist.github.com/anubiskhan/498f99779dbd1971038a075e6e2fe129
+- Link to Reflection Gist:
+- Sorting Suite Repo:
+- Editor Challenge Repo:
+- Add Comments Challenge Repo:
+- Wes Bos Video Code-Along Gist:
 
 ## Kolya Venturi
 - Link to Reflection Gist:
