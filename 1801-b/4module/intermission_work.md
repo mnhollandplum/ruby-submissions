@@ -39,11 +39,11 @@
 - Wes Bos Video Code-Along Gist: https://gist.github.com/pollockcl/21f52a55c514f2e5be81eda6ebeef4ac
 
 ## Evan Wheeler
-- Link to Reflection Gist:
-- Sorting Suite Repo:
-- Editor Challenge Repo:
-- Add Comments Challenge Repo:
-- Wes Bos Video Code-Along Gist:
+- Link to Reflection Gist: https://gist.github.com/anon0mys/b1a4d10f58fbf25b4ad763a692c0de87
+- Sorting Suite Repo: https://github.com/anon0mys/sorting_suite
+- Editor Challenge Repo: https://github.com/anon0mys/javascript-style-editor-challenge
+- Add Comments Challenge Repo: https://github.com/anon0mys/javascript-add-comments-challenge
+- Wes Bos Video Code-Along Gist: https://gist.github.com/anon0mys/a9e3cb96c39d9a250efb898f113d3c8a
 
 ## Jake Rambold
 - Link to Reflection Gist:
