@@ -32,11 +32,11 @@
 - Wes Bos Video Code-Along Gist:
 
 ## Clee Pollock
-- Link to Reflection Gist:
-- Sorting Suite Repo:
-- Editor Challenge Repo:
-- Add Comments Challenge Repo:
-- Wes Bos Video Code-Along Gist:
+- Link to Reflection Gist: https://gist.github.com/pollockcl/9886b0fee88d4579174762e2cbfb4795
+- Sorting Suite Repo: https://github.com/pollockcl/sorting_suite
+- Editor Challenge Repo: https://github.com/pollockcl/javascript-style-editor
+- Add Comments Challenge Repo: https://github.com/pollockcl/javascript-add-comments-challenge
+- Wes Bos Video Code-Along Gist: https://gist.github.com/pollockcl/21f52a55c514f2e5be81eda6ebeef4ac
 
 ## Evan Wheeler
 - Link to Reflection Gist:
