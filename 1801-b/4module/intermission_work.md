@@ -46,11 +46,11 @@
 - Wes Bos Video Code-Along Gist: https://gist.github.com/anon0mys/a9e3cb96c39d9a250efb898f113d3c8a
 
 ## Jake Rambold
-- Link to Reflection Gist:
-- Sorting Suite Repo:
-- Editor Challenge Repo:
-- Add Comments Challenge Repo:
-- Wes Bos Video Code-Along Gist:
+- Link to Reflection Gist: https://gist.github.com/jrambold/a9cd1d67e350e77ae459b8c946215016
+- Sorting Suite Repo: https://github.com/jrambold/js_sorting
+- Editor Challenge Repo: https://github.com/jrambold/javascript-style-editor-challenge
+- Add Comments Challenge Repo: https://github.com/jrambold/javascript-add-comments-challenge
+- Wes Bos Video Code-Along Gist: https://gist.github.com/jrambold/a7da86ac1dc08d9e7c73e7720d82ebbf
 
 ## Kelly Schroeder
 - Link to Reflection Gist: https://gist.github.com/anubiskhan/f1bc196899d7e29fd98801dd01404ee4
