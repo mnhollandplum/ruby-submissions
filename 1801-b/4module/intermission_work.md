@@ -81,8 +81,8 @@
 - Wes Bos Video Code-Along Gist: code-along [gist](https://gist.github.com/ssciolist/80032c6f4ff94a2b39a3bd9aecf80e65)
 
 ## Tyler Lundgren
-- Link to Reflection Gist:
-- Sorting Suite Repo:
-- Editor Challenge Repo:
-- Add Comments Challenge Repo:
-- Wes Bos Video Code-Along Gist:
+- Link to Reflection Gist: [Reflection Gist](https://gist.github.com/nergdnvlt/5c71fe5f57af941aa49f35d9d0a049b9)
+- Sorting Suite Repo: [Sorting Suite - Bubble Sort](https://github.com/nergdnvlt/sorting_suite)
+- Editor Challenge Repo: [JQuery Style Editor](https://github.com/nergdnvlt/style_editor)
+- Add Comments Challenge Repo: [JQuery Add Comments](https://github.com/nergdnvlt/javascript-add-comments-challenge)
+- Wes Bos Video Code-Along Gist: [JS30 Wes Bos Gist](https://gist.github.com/nergdnvlt/00b022dddc7f952d5c767224d9eda427)
