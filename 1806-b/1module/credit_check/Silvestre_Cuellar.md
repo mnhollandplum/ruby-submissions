@@ -36,9 +36,9 @@ The student(s):
     * Project directory structure adheres to convention
     * A linter reports less than 5 errors
 
-## Testing
+## Testing: 1
 
-Notes:
+Notes: It looks like your test file is just a copy of your credit_check.rb file?  The test file should hold a Minitest testing suite!
 
 The student(s):
 
@@ -48,12 +48,12 @@ The student(s):
 - [ ] writes a test before writing code that implements the behavior to make that test pass
 - [ ] writes both integration and unit tests
 
-## Version Control
+## Version Control: 1
 
-Notes:
+Notes: I think you had some struggle with git/GitHub; don't let this get you down, you will keep getting more comfortable as the mod progresses!
 
 The student(s):
 
-- [ ] hosts their code on the master branch of their remote repository
+- [x] hosts their code on the master branch of their remote repository
 - [ ] makes commits in small chunks of functionality
 - [ ] submits and merges Pull Requests using the Github interface
