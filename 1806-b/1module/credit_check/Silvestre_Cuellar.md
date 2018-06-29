@@ -1,35 +1,35 @@
-Assessor:
+Assessor: Megan McMahon
 
-Repo:
+Repo: https://github.com/SiCuellar/git_CreditCheck
 
-## Functionality
+## Functionality: 2
 
-Notes:
+Notes: The logic and algorithm are really on track and would be a 3 if you take into account passing in the credit card number as an integer and included tests. This is on the right track.
 
 - [ ] Student completes through Iteration 3
 
-## Mechanics
+## Mechanics: 3
 
-Notes:
-
-The student(s):
-
-- [ ] appropriately uses Strings, Integers, Floats, Ranges, Symbols, Nils, Arrays, and Hashes
-- [ ] implements best-choice enumerable methods to iterate over collections
-- [ ] uses boolean expressions and flow control structures to logically manage a program's flow
-- [ ] uses methods, arguments, and return values to break code into logical components
-- [ ] creates Classes that utilize instance variables, attribute accessors, and instance methods
-
-## Design
-
-Notes:
+Notes: In general, the code looks really clean - great job!  I would encourage you to think about when an initialize method is necessary; it seems like in this case, you could have left it out.  Also, just a small thing, watch the number of lines you leave between methods; we typically see just one line in between methods.
 
 The student(s):
 
-- [ ] adheres to the Single Responsibility and DRY principles
-- [ ] creates Objects and Classes that appropriately encompass state and behavior
-- [ ] uses instance and local variables appropriately
-- [ ] writes readable code with the following characteristics:
+- [x] appropriately uses Strings, Integers, Floats, Ranges, Symbols, Nils, Arrays, and Hashes
+- [x] implements best-choice enumerable methods to iterate over collections
+- [x] uses boolean expressions and flow control structures to logically manage a program's flow
+- [x] uses methods, arguments, and return values to break code into logical components
+- [x] creates Classes that utilize instance variables, attribute accessors, and instance methods
+
+## Design: 3
+
+Notes: The code design looks good - one thing that I would recommend is to rearrange your methods so that the higher-level operations, like `valid_number?` are at the top of the class, rather than the bottom.
+
+The student(s):
+
+- [x] adheres to the Single Responsibility and DRY principles
+- [x] creates Objects and Classes that appropriately encompass state and behavior
+- [x] uses instance and local variables appropriately
+- [x] writes readable code with the following characteristics:
     * Variable and method names are self explanatory
     * Methods are under 7 lines
     * Lines of code are under 80 characters
