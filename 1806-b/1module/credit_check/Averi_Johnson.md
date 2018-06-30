@@ -1,8 +1,8 @@
-Assessor:
+Assessor: Brian
 
-Repo:
+Repo: https://github.com/averimj/Credit_Check
 
-## Functionality
+## Functionality: 2
 
 Notes:
 
@@ -11,6 +11,22 @@ Notes:
 ## Mechanics
 
 Notes:
+
+* Instead of storing the data in instance variables, I would prefer to see you using arguments and return values. For instance, instead of calling `reverse` in the `validation_output` method and having that reverse method set the @card_numb variable, pass the card number into the reverse method and have it output the reversed number. The reverse method would look like:
+
+```ruby
+def reverse(card_numb)
+    card_numb.reverse
+end
+```
+
+and the call to it in `validation_output` would look like:
+
+```ruby
+reversed_number = reverse(card_number)
+```
+
+* In `validation_output`, you are printing the output instead of returning it. Make sure you understand the difference between printing and returning.
 
 The student(s):
 
@@ -36,24 +52,27 @@ The student(s):
     * Project directory structure adheres to convention
     * A linter reports less than 5 errors
 
-## Testing
+## Testing: 3
 
 Notes:
+
+* The tests you have look good. I understand you probably ran out of time, but I would prefer that you write the tests for the valid_number? and validation_output methods before tests for the helper methods. 
 
 The student(s):
 
 - [ ] writes Minitest tests that describe the expected behavior of a program according to technical specifications
 - [ ] names and orders tests so that a test file reads like documentation
-- [ ] writes Minitest assertions that accurately test a piece of functionality
-- [ ] writes a test before writing code that implements the behavior to make that test pass
+- [x] writes Minitest assertions that accurately test a piece of functionality
 - [ ] writes both integration and unit tests
 
-## Version Control
+## Version Control: 2
 
 Notes:
 
+* I know you had some issues with git, so I'm not able to see any commits besides the ones you did at the end of the project. In the future, make sure you are committing frequently in small chunks of functionality. 
+
 The student(s):
 
-- [ ] hosts their code on the master branch of their remote repository
+- [x] hosts their code on the master branch of their remote repository
 - [ ] makes commits in small chunks of functionality
 - [ ] submits and merges Pull Requests using the Github interface
