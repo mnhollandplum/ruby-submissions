@@ -48,6 +48,7 @@ The student(s):
 Notes:
 
  * `test_it_can_validate_a_card_number` isnt clear in what is happeing
+ * Remove commented out skips before submissions
 
 The student(s):
 
