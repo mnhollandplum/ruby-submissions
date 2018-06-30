@@ -1,3 +1,4 @@
+
 Assessor: Sal
 
 Repo: https://github.com/eriksc2000/CreditCheckJr
@@ -6,16 +7,20 @@ Repo: https://github.com/eriksc2000/CreditCheckJr
 
 Notes:
 
+
 * Like where this ended up!
 * Think you made the right decision to wrestle with trying to refactor over providing additional functionality.
 
-- [x] Student completes through Iteration 3
 
+
+- [x] Student completes through Iteration 3
 ## Mechanics: 3
 
 Notes:
 
 * Generally looks good!
+* Some unnecessary local variable use could be avoided with better choice
+enumerables
 
 The student(s):
 
@@ -28,6 +33,8 @@ The student(s):
 ## Design: 3
 
 Notes:
+* Project uses the treasure map approach.
+* There are methods which are not DRY
 
 * Generally looks good.
 * Talked about this in person, but prefer the approach that you have commented out at the top.
@@ -48,6 +55,8 @@ The student(s):
 ## Testing: 3
 
 Notes:
+* Unnecessary whitespace in tests
+* One of the test values for a properly working creditcard number is 80
 
 * Generally looks good!
 * Would've liked to see that last test unskipped.

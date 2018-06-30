@@ -33,6 +33,12 @@ The student(s):
 
 Notes:
 
+* There's a method, `calculate_check_sum_digit` which repeats a lot that was in a
+previous method.
+* There a few instances where a better enumerable choice would have eliminated
+the need for a local variable.
+
+
 The student(s):
 
 - [x] adheres to the Single Responsibility and DRY principles
@@ -41,9 +47,9 @@ The student(s):
 - [x] writes readable code with the following characteristics:
     * Variable and method names are self explanatory
     * Methods are under 7 lines
-    * Lines of code are under 80 characters
-    * Project directory structure adheres to convention
-    * A linter reports less than 5 errors
+    * **Lines of code are under 80 characters**
+    * **Project directory structure adheres to convention**
+    * **A linter reports less than 5 errors**
 
 ## Testing: 3: 3: 3: 3
 
@@ -51,6 +57,8 @@ Notes:
 
 * Tests look good!
 * Like the balance of integration and feature tests!
+ * `test_it_can_validate_a_card_number` isnt clear in what is happeing
+ * Remove commented out skips before submissions
 
 The student(s):
 
