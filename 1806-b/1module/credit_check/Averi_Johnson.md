@@ -1,6 +1,6 @@
-Assessor:
+Assessor: Brian
 
-Repo:
+Repo: https://github.com/averimj/Credit_Check
 
 ## Functionality: 2
 
@@ -16,6 +16,33 @@ Notes:
 
 * Generally moving in the right direction!
 * See comment below about instance variables!
+* The methods don't take input. The card number is hard coded into initialize
+
+- [ ] Student completes through Iteration 3
+
+## Mechanics: 2
+
+Notes:
+
+* Instead of storing the data in instance variables, I would prefer to see you using arguments and return values. For instance, instead of calling `reverse` in the `validation_output` method and having that reverse method set the @card_numb instance variable, pass the card number into the reverse method and have it output the reversed number. The reverse method would look like:
+
+```ruby
+def reverse(card_numb)
+    card_numb.reverse
+end
+```
+
+and the call to it in `validation_output` would look like:
+
+```ruby
+reversed_number = reverse(card_number)
+```
+
+* In `validation_output`, you are printing the output instead of returning it. Make sure you understand the difference between printing and returning.
+* Like the way you're writing your methods!
+* Like how you're thinking through things.
+* Think that you have some good logic here.
+* *Main Comment:* Recommend that you switch to using return values instead of instance variables. Reserve instance variables for those things that feel like the *state* of the object you're dealing with. Use return values when you just need to move information around.
 
 The student(s):
 
@@ -29,10 +56,14 @@ The student(s):
 
 Notes:
 
-* Like the way you're writing your methods!
-* Like how you're thinking through things.
-* Think that you have some good logic here.
-* *Main Comment:* Recommend that you switch to using return values instead of instance variables. Reserve instance variables for those things that feel like the *state* of the object you're dealing with. Use return values when you just need to move information around.
+- [ ] uses methods, arguments, and return values to break code into logical components
+- [x] creates Classes that utilize instance variables, attribute accessors, and instance methods
+
+## Design: 2
+
+Notes:
+
+* The card number should be passed as an argument to the valid_number? and validation_output methods, not hard coded into the initialize. 
 
 The student(s):
 
@@ -57,6 +88,16 @@ The student(s):
 
 - [x] writes Minitest tests that describe the expected behavior of a program according to technical specifications
 - [x] names and orders tests so that a test file reads like documentation
+## Testing: 3
+
+Notes:
+
+* The tests you have look good. I understand you probably ran out of time, but I would prefer that you write the tests for the valid_number? and validation_output methods over tests for the helper methods. 
+
+The student(s):
+
+- [ ] writes Minitest tests that describe the expected behavior of a program according to technical specifications
+- [ ] names and orders tests so that a test file reads like documentation
 - [x] writes Minitest assertions that accurately test a piece of functionality
 - [ ] writes both integration and unit tests
 
@@ -65,6 +106,7 @@ The student(s):
 Notes:
 
 * For next project see if you can add some commits/pull requests!
+* I know you had some issues with git, so I'm not able to see any commits besides the ones you did at the end of the project. In the future, make sure you are committing frequently in small chunks of functionality. 
 
 The student(s):
 

@@ -31,6 +31,10 @@ Notes:
 * Generally looks good. Again here, instance variable use could be improved.
 * Really like that you have a separate class for the check digit. I don't know that I would make the same decision, but it shows that you're thinking about Single Responsibility.
 * Don't know where to put this comment, but put your readme in the root of your project directory! Currently it's in `lib`. If you put it in the base directory, GitHub will show it to people when they visit your project page.
+* There's a `CheckSum` class that has an amount of repetition from `CreditCheck`
+* Both classes have a setter method when numbers should be stored on creation
+* All variables are instance variables.
+* Runner also uses instance variables.
 
 The student(s):
 
@@ -49,6 +53,10 @@ The student(s):
 Notes:
 
 * Generally looks good!
+* Repeated tests in `check_sum_test`
+* `holds_card_number` test does not test if it is holding the number
+* No real integration testing, tests never touch the methods that bring it all
+together
 
 The student(s):
 
