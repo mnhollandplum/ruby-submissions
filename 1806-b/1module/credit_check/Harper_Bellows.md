@@ -1,52 +1,61 @@
-Assessor:
+Assessor: Mike
 
-Repo:
+Repo: https://github.com/hbellows/credit_check_2
 
 ## Functionality
 
 Notes:
 
-- [ ] Student completes through Iteration 3
+- [x] Student completes through Iteration 3
 
 ## Mechanics
 
 Notes:
 
+
 The student(s):
 
-- [ ] appropriately uses Strings, Integers, Floats, Ranges, Symbols, Nils, Arrays, and Hashes
+- [x] appropriately uses Strings, Integers, Floats, Ranges, Symbols, Nils, Arrays, and Hashes
 - [ ] implements best-choice enumerable methods to iterate over collections
-- [ ] uses boolean expressions and flow control structures to logically manage a program's flow
-- [ ] uses methods, arguments, and return values to break code into logical components
-- [ ] creates Classes that utilize instance variables, attribute accessors, and instance methods
+- [x] uses boolean expressions and flow control structures to logically manage a program's flow
+- [x] uses methods, arguments, and return values to break code into logical components
+- [x] creates Classes that utilize instance variables, attribute accessors, and instance methods
 
 ## Design
 
 Notes:
 
+* There's a method, `calculate_check_sum_digit` which repeats a lot that was in a
+previous method.
+* There a few instances where a better enumerable choice would have eliminated
+the need for a local variable.
+
+
 The student(s):
 
 - [ ] adheres to the Single Responsibility and DRY principles
-- [ ] creates Objects and Classes that appropriately encompass state and behavior
+- [x] creates Objects and Classes that appropriately encompass state and behavior
 - [ ] uses instance and local variables appropriately
-- [ ] writes readable code with the following characteristics:
-    * Variable and method names are self explanatory
+- [x] writes readable code with the following characteristics:
+    * **Variable and method names are self explanatory**
     * Methods are under 7 lines
-    * Lines of code are under 80 characters
-    * Project directory structure adheres to convention
-    * A linter reports less than 5 errors
+    * **Lines of code are under 80 characters**
+    * **Project directory structure adheres to convention**
+    * **A linter reports less than 5 errors**
 
 ## Testing
 
 Notes:
 
+ * `test_it_can_validate_a_card_number` isnt clear in what is happeing
+
 The student(s):
 
-- [ ] writes Minitest tests that describe the expected behavior of a program according to technical specifications
+- [x] writes Minitest tests that describe the expected behavior of a program according to technical specifications
 - [ ] names and orders tests so that a test file reads like documentation
-- [ ] writes Minitest assertions that accurately test a piece of functionality
-- [ ] writes a test before writing code that implements the behavior to make that test pass
-- [ ] writes both integration and unit tests
+- [x] writes Minitest assertions that accurately test a piece of functionality
+- [x] writes a test before writing code that implements the behavior to make that test pass
+- [x] writes both integration and unit tests
 
 ## Version Control
 
@@ -54,6 +63,6 @@ Notes:
 
 The student(s):
 
-- [ ] hosts their code on the master branch of their remote repository
-- [ ] makes commits in small chunks of functionality
-- [ ] submits and merges Pull Requests using the Github interface
+- [x] hosts their code on the master branch of their remote repository
+- [x] makes commits in small chunks of functionality
+- [x] submits and merges Pull Requests using the Github interface
