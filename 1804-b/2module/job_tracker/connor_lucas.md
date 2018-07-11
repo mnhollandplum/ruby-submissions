@@ -8,7 +8,6 @@ Notes:
 - some branch logic in forms that could be DRY'd up
 - using some Ruby where AR could be used
 - /jobs not using a typical RESTful route
-- 1 on AR
 
 
 ## Rubric
