@@ -58,12 +58,12 @@ The student(s):
 - [ ] writes a test before writing code that implements the behavior to make that test pass
 - [x] writes both integration and unit tests
 
-## Version Control
+## Version Control: 3
 
 Notes:
 
 The student(s):
 
-- [ ] hosts their code on the master branch of their remote repository
-- [ ] makes commits in small chunks of functionality
-- [ ] submits and merges Pull Requests using the Github interface
+- [x] hosts their code on the master branch of their remote repository
+- [x] makes commits in small chunks of functionality
+- [x] submits and merges Pull Requests using the Github interface
