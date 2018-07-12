@@ -22,7 +22,7 @@ The student(s):
 - [x] uses methods, arguments, and return values to break code into logical components
 - [x] creates Classes that utilize instance variables, attribute accessors, and instance methods
 
-## Design
+## Design: 3
 
 Notes:
 
