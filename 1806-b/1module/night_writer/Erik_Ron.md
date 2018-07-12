@@ -2,13 +2,13 @@ Assessor:
 
 Repo:
 
-## Functionality
+## Functionality: 1
 
 Notes:
 
 - [ ] Student completes through Iteration 3
 
-## Mechanics
+## Mechanics: 2
 
 Notes:
 
@@ -20,7 +20,7 @@ The student(s):
 - [ ] uses methods, arguments, and return values to break code into logical components
 - [ ] creates Classes that utilize instance variables, attribute accessors, and instance methods
 
-## Design
+## Design: 2
 
 Notes:
 
@@ -37,7 +37,7 @@ The student(s):
     * Project directory structure adheres to convention
     * A linter reports less than 5 errors
 
-## Testing
+## Testing: 2
 
 Notes:
 
@@ -50,7 +50,7 @@ The student(s):
 - [ ] writes a test before writing code that implements the behavior to make that test pass
 - [ ] writes both integration and unit tests
 
-## Version Control
+## Version Control: 3
 
 Notes:
 
