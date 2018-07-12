@@ -1,4 +1,4 @@
-#Usage: ./make_rubrics.sh [student list] [project directory no slashes]
+#Usage: ./make-rubrics.sh [student list] [project directory no slashes]
 template="./${2}/template.md"
 while read student_name
 do
