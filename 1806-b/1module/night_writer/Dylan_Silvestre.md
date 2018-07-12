@@ -36,8 +36,8 @@ The student(s):
 
 - [ ] adheres to the Single Responsibility and DRY principles
 - [ ] utilizes Test Driven Development to drive the design of the code.
-- [ ] creates Objects and Classes that appropriately encompass state and behavior
-- [ ] uses instance and local variables appropriately
+- [x] creates Objects and Classes that appropriately encompass state and behavior
+- [x] uses instance and local variables appropriately
 - [ ] writes readable code with the following characteristics:
     * Variable and method names are self explanatory
     * Methods are under 7 lines
