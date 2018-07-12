@@ -6,7 +6,7 @@ Repo: https://github.com/patrickshobe/complete_me
 
 Notes:
 
-- [ ] Student completes through Iteration 3
+- [x] Student completes through Iteration 3
 
 ## Mechanics: 3
 
